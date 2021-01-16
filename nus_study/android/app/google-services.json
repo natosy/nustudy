@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465825775663",
+    "firebase_url": "https://nus-study.firebaseio.com",
+    "project_id": "nus-study",
+    "storage_bucket": "nus-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465825775663:android:458df6a86959bdffa7c6da",
+        "android_client_info": {
+          "package_name": "com.NSquared.nus_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465825775663-7ivmoavnmkigujgh626dkvek8mha40oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5MykDhQLwqQ9D86j29T3mK_A_b0HI1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465825775663-7ivmoavnmkigujgh626dkvek8mha40oh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465825775663-e2l9bij9i383810b20t3msk9cqc0rfli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.NSquared.nusStudy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

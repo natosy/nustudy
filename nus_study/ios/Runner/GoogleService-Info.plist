@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>465825775663-e2l9bij9i383810b20t3msk9cqc0rfli.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465825775663-e2l9bij9i383810b20t3msk9cqc0rfli</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSbpre1RNnwL_kkb96MgI_lWSG2zWITgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465825775663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.NSquared.nusStudy</string>
+	<key>PROJECT_ID</key>
+	<string>nus-study</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nus-study.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465825775663:ios:3bc43159ad0bea30a7c6da</string>
+	<key>DATABASE_URL</key>
+	<string>https://nus-study.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,1 +1,1 @@
-# nustudy
+# NSquared
