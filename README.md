@@ -14,10 +14,10 @@ NUStudy is an app designed with [Dart] and [Flutter] meant to allow students of 
 * View participants of a specific study session and their profiles
 
 ### More Information
-* Feel free to take a look at our [poster]
-* We also have an app guide
+* Feel free to take a look at our [poster](https://github.com/natosy/nustudy/blob/main/Poster.pdf)
+* We also have an [app guide](https://github.com/natosy/nustudy/blob/main/App%20Guide.pdf)
 ### Techstack
 
-* [Dart]
-* [Flutter] 
-* [Firestore]
+* Dart
+* Flutter
+* Firestore
