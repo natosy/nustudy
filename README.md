@@ -1,6 +1,6 @@
 # NUStudy
 
-NUStudy is an app designed with [Dart] and [Flutter] meant to allow students of National University of Singapore (NUS) to find peers taking similar modules. It allows for the efficient creation and scouting of mutually beneficial study sessions.
+NUStudy is an app designed with **Dart** and **Flutter** meant to allow students of National University of Singapore (NUS) to find peers taking similar modules. It allows for the efficient creation and scouting of mutually beneficial study sessions.
 
 ### Core Features
 * Register accounts using valid emails
@@ -16,8 +16,8 @@ NUStudy is an app designed with [Dart] and [Flutter] meant to allow students of 
 ### More Information
 * Feel free to take a look at our [poster](https://github.com/natosy/nustudy/blob/main/Poster.pdf)
 * We also have an [app guide](https://github.com/natosy/nustudy/blob/main/App%20Guide.pdf)
-### Techstack
 
+### Techstack
 * Dart
 * Flutter
 * Firestore
